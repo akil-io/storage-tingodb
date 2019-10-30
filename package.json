@@ -1,0 +1,28 @@
+{
+  "name": "@akilio/storage-tingodb",
+  "version": "1.0.0",
+  "description": "The simplest ever TingoDB object relation mapper and data access library",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {},
+  "author": "Alex Martynov <fenixdeveloper@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akil-io/storage-tingodb"
+  },
+  "bugs": {
+    "url": "https://github.com/akil-io/storage-tingodb/issues"
+  },
+  "keywords": [
+    "orm",
+    "odm",
+    "dao",
+    "tingodb"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "tingodb": "^0.6.1"
+  }
+}
